@@ -1,0 +1,7 @@
+streamlit>=1.66
+pandas
+numpy
+openpyxl
+python-docx
+pillow
+# openai   # uncomment when you connect a model in core/ai.py
